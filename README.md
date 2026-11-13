@@ -1,2 +1,1 @@
-# -
-GAVS hackathon by ?
+GAVS hackathon by Team SUDO
